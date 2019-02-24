@@ -9,5 +9,5 @@ def addition(*arg, **args):
     if arg:
         s += _sum(arg)
     if args:
-        s += _sum(arg.values())
+        s += _sum(args.values())
     return s
