@@ -1,4 +1,4 @@
-# Package CI example repository
+# Package CI example repository [![Build Status](https://travis-ci.com/Aypac/Packaged_CI_and_unit_test_example.svg?branch=master)](https://travis-ci.com/Aypac/Packaged_CI_and_unit_test_example)
 This repository is designed to illustrate how to create a pip-installable package (following [these minimal instructions](https://python-packaging.readthedocs.io/en/latest/minimal.html)) and add continuous integration (CI with [travis](http://travis-ci.com/)).
 
 The idea is, that you clone it and then first make it a pip-installable package and then add CI.
